@@ -14,6 +14,7 @@
 		055209C728382EB600455EC8 /* SoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 055209C528382EB600455EC8 /* SoundBoard.xcdatamodeld */; };
 		055209C928382EBA00455EC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 055209C828382EBA00455EC8 /* Assets.xcassets */; };
 		055209CC28382EBA00455EC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 055209CA28382EBA00455EC8 /* LaunchScreen.storyboard */; };
+		055209D4283835CC00455EC8 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055209D3283835CC00455EC8 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		055209C828382EBA00455EC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		055209CB28382EBA00455EC8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		055209CD28382EBA00455EC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		055209D3283835CC00455EC8 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				055209BE28382EB600455EC8 /* SceneDelegate.swift */,
 				055209C028382EB600455EC8 /* ViewController.swift */,
 				055209C228382EB600455EC8 /* Main.storyboard */,
+				055209D3283835CC00455EC8 /* SoundViewController.swift */,
 				055209C828382EBA00455EC8 /* Assets.xcassets */,
 				055209CA28382EBA00455EC8 /* LaunchScreen.storyboard */,
 				055209CD28382EBA00455EC8 /* Info.plist */,
@@ -145,6 +148,7 @@
 				055209C128382EB600455EC8 /* ViewController.swift in Sources */,
 				055209BD28382EB600455EC8 /* AppDelegate.swift in Sources */,
 				055209BF28382EB600455EC8 /* SceneDelegate.swift in Sources */,
+				055209D4283835CC00455EC8 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
